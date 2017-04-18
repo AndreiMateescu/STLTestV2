@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1488149620 source:c:\users\diamo\desktop\netrom - metoda2\netrom-metoda2\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cmath>
+	<vector>
+	<limits.h>
+
